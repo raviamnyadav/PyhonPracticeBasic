@@ -1,0 +1,14 @@
+Python List and Tuple are the two most important topics to learn when you are a beginner.
+Python list works a array from different language like C++, java or javascirpt, which is it is a collection of all the data in a single variable.
+But the main this is that in array we cannot store multiple data which are of different types but in list we can store different data types data 
+for example 
+ array = [1, 2, 3, 4] // possible in array
+  array = [1, "aman", 1.43] // not possible in array
+
+   list 
+  list = [1, 2, 3, 4, 5]//possible in list
+  list [ 1, "aman", 1.45] //possible in list
+Python tuple is also the collection of data but list is a mutable while tuple is not mutable (Mutable : can be able to modify).
+In tuple we use () bracket instead of [] bracket which are used in list
+List are slower due to mutability
+List are used when we want to or some urge to change the data dynamically while in tuple we cannot do that.
